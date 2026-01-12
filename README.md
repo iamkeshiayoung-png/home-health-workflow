@@ -18,3 +18,4 @@ This product focuses on improving visit documentation from start to completion.
 - Resume a visit
 - Auto-save documentation
 - Submit visit for QA
+
